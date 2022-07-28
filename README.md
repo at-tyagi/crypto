@@ -1,8 +1,1 @@
-# Crypto Node
-
-This is a repository with code sampling the use of node's crypto module.
-
-## Accompanying article can be found here: 
-
-- [RSA Encryption using the crypto module](https://nkhilv.medium.com/rsa-encryption-in-nodejs-with-code-samples-86bb829718e0)
-
+Its an app to encrypt and decrypt file with rsa crypto module under which we are going to split a file into multiple parts then encrypt them with public key and there after send our data to user who can decrypt file with his private key and each chunk will get append to form single file again.
